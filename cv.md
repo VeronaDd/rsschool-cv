@@ -1,7 +1,7 @@
 # Veranika Drazdova
 
 ## About me
-I work as a medical device engineer.I want to learn a new profession.
+I work as a medical device engineer.My goal is to get a new profession. I want to develop in the field of IT.
 ## Contact
 ### Address
 Minsk
