@@ -44,6 +44,7 @@ html {
 @media (max-width: 768px) {
   .section {
     width: 100%;
+  }
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -75,6 +76,7 @@ body {
  
 main {
   border: 1px solid red;
+}
   div class="container" {
   max-width: 1440px;
   margin: 0 auto;
@@ -87,11 +89,12 @@ body {
 
 footer {
   border: 1px solid red;
+}
   div class="container" {
   max-width: 1440px;
   margin: 0 auto;
 }
-  min-height: 100vh;
+  min-height: 100vh; {
   margin: 0;
   padding: 0;
   display: flex;
